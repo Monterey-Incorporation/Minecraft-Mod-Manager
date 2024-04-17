@@ -180,7 +180,7 @@ def search(reload=False):
         connectionbarvalue.set(100)
         window.update()
         globalwidgets["searchframe"].pack(fill="both", expand=True, side="left")
-    except Exception as e:
+    except Exception:
         print("An error occured")
         lf1 = ttk.Frame(mainframe)
 
