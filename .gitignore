@@ -8,3 +8,5 @@ vs-projects
 icons_zip.py
 test.py
 Minecraft Mod Manager.spec
+setup.bat
+mod_manager.spec
