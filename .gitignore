@@ -1,11 +1,10 @@
 __pycache__
 icons
-main.py
-Minecraft Mod Manager.spec
-requester.py
 setup.sh
 test.py
-main.py
-Minecraft Mod Manager.spec
 dist
 build
+vs-projects
+icons_zip.py
+test.py
+Minecraft Mod Manager.spec
